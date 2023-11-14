@@ -30,7 +30,6 @@ export class AppComponent {
         }
       }
       );
-      console.log(Date())
   }
 
   addNote() {
